@@ -1,0 +1,15 @@
+C:\Users\Asus\git\data-structures-practice-4041\S2\codes\CSHARP_TRAINING\bin\Debug\net9.0\CSHARP_TRAINING.exe
+C:\Users\Asus\git\data-structures-practice-4041\S2\codes\CSHARP_TRAINING\bin\Debug\net9.0\CSHARP_TRAINING.deps.json
+C:\Users\Asus\git\data-structures-practice-4041\S2\codes\CSHARP_TRAINING\bin\Debug\net9.0\CSHARP_TRAINING.runtimeconfig.json
+C:\Users\Asus\git\data-structures-practice-4041\S2\codes\CSHARP_TRAINING\bin\Debug\net9.0\CSHARP_TRAINING.dll
+C:\Users\Asus\git\data-structures-practice-4041\S2\codes\CSHARP_TRAINING\bin\Debug\net9.0\CSHARP_TRAINING.pdb
+C:\Users\Asus\git\data-structures-practice-4041\S2\codes\CSHARP_TRAINING\obj\Debug\net9.0\CSHARP_TRAINING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\git\data-structures-practice-4041\S2\codes\CSHARP_TRAINING\obj\Debug\net9.0\CSHARP_TRAINING.AssemblyInfoInputs.cache
+C:\Users\Asus\git\data-structures-practice-4041\S2\codes\CSHARP_TRAINING\obj\Debug\net9.0\CSHARP_TRAINING.AssemblyInfo.cs
+C:\Users\Asus\git\data-structures-practice-4041\S2\codes\CSHARP_TRAINING\obj\Debug\net9.0\CSHARP_TRAINING.csproj.CoreCompileInputs.cache
+C:\Users\Asus\git\data-structures-practice-4041\S2\codes\CSHARP_TRAINING\obj\Debug\net9.0\CSHARP_TRAINING.sourcelink.json
+C:\Users\Asus\git\data-structures-practice-4041\S2\codes\CSHARP_TRAINING\obj\Debug\net9.0\CSHARP_TRAINING.dll
+C:\Users\Asus\git\data-structures-practice-4041\S2\codes\CSHARP_TRAINING\obj\Debug\net9.0\refint\CSHARP_TRAINING.dll
+C:\Users\Asus\git\data-structures-practice-4041\S2\codes\CSHARP_TRAINING\obj\Debug\net9.0\CSHARP_TRAINING.pdb
+C:\Users\Asus\git\data-structures-practice-4041\S2\codes\CSHARP_TRAINING\obj\Debug\net9.0\CSHARP_TRAINING.genruntimeconfig.cache
+C:\Users\Asus\git\data-structures-practice-4041\S2\codes\CSHARP_TRAINING\obj\Debug\net9.0\ref\CSHARP_TRAINING.dll
