@@ -9,46 +9,53 @@ public class Sort
     public static void Main(string[] args)
     {
 
-        System.Console.WriteLine("This program take a long , please wait...!");
+        // System.Console.WriteLine("This program take a long , please wait...!");
 
-            Random rnd = new Random();
+        //     Random rnd = new Random();
 
-            int[] numming = new int[100000];
-            for (int i = 0; i < numming.Length; i++)
-            {
-                numming[i] = rnd.Next(-100000, 100001);
-            }
-
-
-
-        Stopwatch t1 = new Stopwatch();
-
-        t1.Start();
-
-        int[] mynum = Bubble_Sort(numming);
-
-        t1.Stop();
-
-        System.Console.WriteLine("The time span is : " + t1.ElapsedMilliseconds.ToString() + " millisecond" + " Bubble sort");
+        //     int[] numming = new int[100000];
+        //     for (int i = 0; i < numming.Length; i++)
+        //     {
+        //         numming[i] = rnd.Next(-100000, 100001);
+        //     }
 
 
-        Stopwatch t2 = new Stopwatch();
-        List<int> nums = new List<int>(numming);
+
+        // Stopwatch t1 = new Stopwatch();
+
+        // t1.Start();
+
+        // int[] mynum = Bubble_Sort(numming);
+
+        // t1.Stop();
+
+        // System.Console.WriteLine("The time span is : " + t1.ElapsedMilliseconds.ToString() + " millisecond" + " Bubble sort");
 
 
-        t2.Start();
+        // Stopwatch t2 = new Stopwatch();
+        // List<int> nums = new List<int>(numming);
 
-        List<int> Ans = Selection_Sort(nums);
 
-        // foreach (var i in Ans)
-        // {
-        //     System.Console.WriteLine(i);
-        // }
+        // t2.Start();
 
-        t2.Stop();
+        // List<int> Ans = Selection_Sort(nums);
 
-        System.Console.WriteLine("The time span is : " + t2.ElapsedMilliseconds.ToString() + " millisecond" + " Selection sort");
-        
+        // // foreach (var i in Ans)
+        // // {
+        // //     System.Console.WriteLine(i);
+        // // }
+
+        // t2.Stop();
+
+        // System.Console.WriteLine("The time span is : " + t2.ElapsedMilliseconds.ToString() + " millisecond" + " Selection sort");
+
+
+        int[] answer = Insertion_Sort(new int[] { 11, 0, 3, -2, 8, 14 });
+
+        foreach (var i in answer)
+        {
+            System.Console.Write(i+ " ");
+        }
 
     }
 
@@ -99,10 +106,22 @@ public class Sort
         return final;
     }
 
-    // public static int[] Insertion_Sort(int[] nums)
-    // {
+    public static int[] Insertion_Sort(int[] nums)
+    {
+        for (int i = 1; i < nums.Length; i++)
+        {
+            int key = nums[i];
+            int j = i - 1;
 
-    // }
+            while ((j >= 0) && (nums[j] > key))
+            {
+                nums[j + 1] = nums[j];
+                j--;
+            }
+            nums[j + 1] = key;
+        }
+        return nums;
+    }
 
 
     // public static int[] Merge_Sort(int[] nums)
