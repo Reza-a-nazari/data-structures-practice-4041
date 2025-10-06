@@ -1,0 +1,15 @@
+C:\Users\Asus\git\data-structures-practice-4041\S3\codes\S3\bin\Debug\net9.0\S3.exe
+C:\Users\Asus\git\data-structures-practice-4041\S3\codes\S3\bin\Debug\net9.0\S3.deps.json
+C:\Users\Asus\git\data-structures-practice-4041\S3\codes\S3\bin\Debug\net9.0\S3.runtimeconfig.json
+C:\Users\Asus\git\data-structures-practice-4041\S3\codes\S3\bin\Debug\net9.0\S3.dll
+C:\Users\Asus\git\data-structures-practice-4041\S3\codes\S3\bin\Debug\net9.0\S3.pdb
+C:\Users\Asus\git\data-structures-practice-4041\S3\codes\S3\obj\Debug\net9.0\S3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\git\data-structures-practice-4041\S3\codes\S3\obj\Debug\net9.0\S3.AssemblyInfoInputs.cache
+C:\Users\Asus\git\data-structures-practice-4041\S3\codes\S3\obj\Debug\net9.0\S3.AssemblyInfo.cs
+C:\Users\Asus\git\data-structures-practice-4041\S3\codes\S3\obj\Debug\net9.0\S3.csproj.CoreCompileInputs.cache
+C:\Users\Asus\git\data-structures-practice-4041\S3\codes\S3\obj\Debug\net9.0\S3.sourcelink.json
+C:\Users\Asus\git\data-structures-practice-4041\S3\codes\S3\obj\Debug\net9.0\S3.dll
+C:\Users\Asus\git\data-structures-practice-4041\S3\codes\S3\obj\Debug\net9.0\refint\S3.dll
+C:\Users\Asus\git\data-structures-practice-4041\S3\codes\S3\obj\Debug\net9.0\S3.pdb
+C:\Users\Asus\git\data-structures-practice-4041\S3\codes\S3\obj\Debug\net9.0\S3.genruntimeconfig.cache
+C:\Users\Asus\git\data-structures-practice-4041\S3\codes\S3\obj\Debug\net9.0\ref\S3.dll
