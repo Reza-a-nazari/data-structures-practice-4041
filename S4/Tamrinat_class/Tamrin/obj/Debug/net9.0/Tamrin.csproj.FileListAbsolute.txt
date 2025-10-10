@@ -1,0 +1,15 @@
+C:\Users\Asus\git\data-structures-practice-4041\S4\Tamrinat_class\Tamrin\obj\Debug\net9.0\Tamrin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\git\data-structures-practice-4041\S4\Tamrinat_class\Tamrin\obj\Debug\net9.0\Tamrin.AssemblyInfoInputs.cache
+C:\Users\Asus\git\data-structures-practice-4041\S4\Tamrinat_class\Tamrin\obj\Debug\net9.0\Tamrin.AssemblyInfo.cs
+C:\Users\Asus\git\data-structures-practice-4041\S4\Tamrinat_class\Tamrin\obj\Debug\net9.0\Tamrin.csproj.CoreCompileInputs.cache
+C:\Users\Asus\git\data-structures-practice-4041\S4\Tamrinat_class\Tamrin\obj\Debug\net9.0\Tamrin.sourcelink.json
+C:\Users\Asus\git\data-structures-practice-4041\S4\Tamrinat_class\Tamrin\bin\Debug\net9.0\Tamrin.exe
+C:\Users\Asus\git\data-structures-practice-4041\S4\Tamrinat_class\Tamrin\bin\Debug\net9.0\Tamrin.deps.json
+C:\Users\Asus\git\data-structures-practice-4041\S4\Tamrinat_class\Tamrin\bin\Debug\net9.0\Tamrin.runtimeconfig.json
+C:\Users\Asus\git\data-structures-practice-4041\S4\Tamrinat_class\Tamrin\bin\Debug\net9.0\Tamrin.dll
+C:\Users\Asus\git\data-structures-practice-4041\S4\Tamrinat_class\Tamrin\bin\Debug\net9.0\Tamrin.pdb
+C:\Users\Asus\git\data-structures-practice-4041\S4\Tamrinat_class\Tamrin\obj\Debug\net9.0\Tamrin.dll
+C:\Users\Asus\git\data-structures-practice-4041\S4\Tamrinat_class\Tamrin\obj\Debug\net9.0\refint\Tamrin.dll
+C:\Users\Asus\git\data-structures-practice-4041\S4\Tamrinat_class\Tamrin\obj\Debug\net9.0\Tamrin.pdb
+C:\Users\Asus\git\data-structures-practice-4041\S4\Tamrinat_class\Tamrin\obj\Debug\net9.0\Tamrin.genruntimeconfig.cache
+C:\Users\Asus\git\data-structures-practice-4041\S4\Tamrinat_class\Tamrin\obj\Debug\net9.0\ref\Tamrin.dll

@@ -9,4 +9,4 @@ def insertation_sort(A):
     return A
 
 
-print(insertation_sort([4,11,0,44,-2]))
+print(insertation_sort([7, 22, 13, 19, 10, 11, 24]))
